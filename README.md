@@ -1,3 +1,4 @@
-# AI-in-Digital-Signal-Analysis-and-Applications & I
 ### INDEX
-HW1:Canny edge Detection
+- YuChen_train_test.ipynb  
+Trainning code for Human Posture Recognition, using RNN-LSTM
+
